@@ -41,7 +41,7 @@ export default function App() {
         <HStack bg='#24292E' px="1" py="3" justifyContent='space-around' alignItems='center'>
           <HStack space="4" alignItems='center'>
             {/* <IconButton icon={<Icon size="sm" as={<MaterialIcons name='menu' />} color="white" />} /> */}
-            <Text color="white" fontSize="20" fontWeight='bold'>Weather App</Text>
+            <Text color="white" fontSize="20" fontWeight='bold'>Fahad Siddiqui | Weather App</Text>
           </HStack>
           <HStack space="2">
             <IconButton icon={<Icon as={<MaterialIcons name='favorite' />} size='sm' color="white" />} />
